@@ -8,3 +8,6 @@
 - Data-Sience : Chứa các dự án luyện tập theo ngành học : https://github.com/TienNguyen0712/Data-Science
 - CSLT-Python : Chứa các file bài tập ví dụ môn CSLT nhưng bằng Python: https://github.com/TienNguyen0712/CSLT-Python
 - SQL : Chứa các file database cũng như các bài tập ví dụ về truy vấn CSDL cụ thể là SQL: https://github.com/TienNguyen0712/SQL
+## Tài liệu tham khảo
+- Cách tổ chức, xây dựng Dashbroad : [Xem tại đây] (https://github.com/TienNguyen0712/DOC-/blob/main/Tai%20Lieu/Guide_to_becoming_a_data_storyteller.pdf)
+- 
