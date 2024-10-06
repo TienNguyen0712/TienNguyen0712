@@ -9,6 +9,5 @@
 - CSLT-Python : Chứa các file bài tập ví dụ môn CSLT nhưng bằng Python: https://github.com/TienNguyen0712/CSLT-Python
 - SQL : Chứa các file database cũng như các bài tập ví dụ về truy vấn CSDL cụ thể là SQL: https://github.com/TienNguyen0712/SQL
 ## Tài liệu tham khảo
-- Cách tổ chức, xây dựng Dashbroad : [Xem tại đây]
-- Tài liệu và Bài Tập SQL : [Xem tại đây]
-- Giaso trình Kinh Tế Vi Mô : [Xem tại dây]
+- Tài liệu và Bài tập SQL : [Xem tại đây](https://drive.google.com/file/d/1oud8e0g0Ql9sAFJRNgfnUa7eGr3-cXpu/view?usp=drive_link)
+- Cách tổ chức, xây dựng Dashbroad  : [Xem tại đây](https://drive.google.com/file/d/1S9x6Cd-RFFynLEi1H2iLivpRx1k5Ni3O/view?usp=drive_link)
