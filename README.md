@@ -11,4 +11,4 @@
 ## Tài liệu tham khảo
 - Tài liệu và Bài tập SQL : [Xem tại đây](https://drive.google.com/file/d/1oud8e0g0Ql9sAFJRNgfnUa7eGr3-cXpu/view?usp=drive_link)
 - Cách tổ chức, xây dựng Dashbroad  : [Xem tại đây](https://drive.google.com/file/d/1S9x6Cd-RFFynLEi1H2iLivpRx1k5Ni3O/view?usp=drive_link)
-- Đọc thêm về các thư viện trong Data Sience: [Xem tại đây](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- Đọc thêm về các thư viện trong Data Sience : [Xem tại đây](https://jakevdp.github.io/PythonDataScienceHandbook/)
