@@ -13,3 +13,5 @@
 ## 📫 How to reach me: 
 ------
 [![TienNguyen0712's GitHub stats](https://github-readme-stats.vercel.app/api?username=TienNguyen0712)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TienNguyen0712&layout=compact)
