@@ -1,14 +1,15 @@
-## GitHub cá nhân
-- Chủ sở hữu: Nguyễn Đăng Tiến - K23- Đại học Sài Gòn
-- Ngành đang theo học: Khoa Học Dữ Liệu (Data Science)
-- Gmail: tiennguyen20050101@gmail.com
-## Repositories trên trang Git gồm
-- CSLT : Chứa cái file bài tập ví dụ môn CSLT : https://github.com/TienNguyen0712/CSLT
-- Data-Sience : Chứa các dự án luyện tập theo ngành học : https://github.com/TienNguyen0712/Data-Science
-- CSLT-Python : Chứa các file bài tập ví dụ môn CSLT nhưng bằng Python: https://github.com/TienNguyen0712/CSLT-Python
-- SQL : Chứa các file database cũng như các bài tập ví dụ về truy vấn CSDL cụ thể là SQL: https://github.com/TienNguyen0712/SQL
-- 100-Bai-Tap : Chứa các file Câu hỏi và Đáp án của 100 bài code hay 30 Ngày: https://github.com/TienNguyen0712/100-Bai-Tap
-## Tài liệu tham khảo
-- Tài liệu và Bài tập SQL : [Xem tại đây](https://drive.google.com/file/d/1oud8e0g0Ql9sAFJRNgfnUa7eGr3-cXpu/view?usp=drive_link)
-- Cách tổ chức, xây dựng Dashbroad  : [Xem tại đây](https://drive.google.com/file/d/1S9x6Cd-RFFynLEi1H2iLivpRx1k5Ni3O/view?usp=drive_link)
-- Đọc thêm về các thư viện trong Data Sience : [Xem tại đây](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+### WELCOME TO MY PAGE 👋👋👋
+--------
+- Xin chào mọi người mình là Đăng Tiến mình là một sinh viên trường Đại học Sài Gòn (k23)
+- Chuyên nghành của mình là Khoa học dữ liệu.
+- Mình rất mong có thể được tiếp thu cũng như học hỏi nhiều điều về AL
+- Mình khá hứng thú với:
+  * Thị giác máy tính
+  *  Xử lý ngôn ngữ tự nhiên
+- Trang Github này lập ra nhằm lưu lại quá trình mình học cũng như là các dự án nhỏ đến lớn của mình.
+- Rất mong được làm quen cũng như học hỏi được nhiều thứ từ các bạn<br>
+------
+## 📫 How to reach me: 
+------
+[![TienNguyen0712's GitHub stats](https://github-readme-stats.vercel.app/api?username=TienNguyen0712)](https://github.com/anuraghazra/github-readme-stats)
