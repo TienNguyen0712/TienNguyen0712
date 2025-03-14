@@ -1,7 +1,6 @@
 ## GitHub cá nhân
 - Chủ sở hữu: Nguyễn Đăng Tiến - K23- Đại học Sài Gòn
 - Ngành đang theo học: Khoa Học Dữ Liệu (Data Science)
-- Số điện thoại: 0942049968
 - Gmail: tiennguyen20050101@gmail.com
 ## Repositories trên trang Git gồm
 - CSLT : Chứa cái file bài tập ví dụ môn CSLT : https://github.com/TienNguyen0712/CSLT
