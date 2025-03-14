@@ -7,6 +7,7 @@
 - Mình khá hứng thú với:
   * Thị giác máy tính
   *  Xử lý ngôn ngữ tự nhiên
+  *  Các thuật toán Machine Learningm, Deep Learning
 - Trang Github này lập ra nhằm lưu lại quá trình mình học cũng như là các dự án nhỏ đến lớn của mình.
 - Rất mong được làm quen cũng như học hỏi được nhiều thứ từ các bạn<br>
 ------
