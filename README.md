@@ -13,12 +13,5 @@
 ------
 ## 📫 How to reach me: 
 ------
-<table>
-<tr>
-  <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=TienNguyen0712&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TienNguyen0712&layout=compact&show_icons=true&hide_border=true" />
-  </td>
-  <td width="52%"><img alt="gif" align="right" src=""/></td>
-</tr>
-<table>
+| <a href="https://github.com/TienNguyen0712/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TienNguyen0712&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="TienNguyen0712's github stats" /></a> | <a href="https://github.com/TienNguyen0712/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TienNguyen0712&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
