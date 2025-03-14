@@ -13,6 +13,12 @@
 ------
 ## 📫 How to reach me: 
 ------
-[![TienNguyen0712's GitHub stats](https://github-readme-stats.vercel.app/api?username=TienNguyen0712)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TienNguyen0712&layout=compact)
+<table>
+<tr>
+  <td width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=TienNguyen0712&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TienNguyen0712&layout=compact&show_icons=true&hide_border=true" />
+  </td>
+  <td width="52%"><img alt="gif" align="right" src=""/></td>
+</tr>
+<table>
