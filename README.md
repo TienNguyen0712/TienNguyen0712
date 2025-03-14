@@ -1,7 +1,7 @@
 
 ### WELCOME TO MY PAGE 👋👋👋
 --------
-- Xin chào mọi người mình là Đăng Tiến mình là một sinh viên trường Đại học Sài Gòn (k23)
+- Xin chào mọi người mình là Đăng Tiến mình là một sinh viên trường Đại học Sài Gòn (K23)
 - Chuyên nghành của mình là Khoa học dữ liệu.
 - Mình rất mong có thể được tiếp thu cũng như học hỏi nhiều điều về AL
 - Mình khá hứng thú với:
