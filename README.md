@@ -11,6 +11,6 @@
 - Trang Github này lập ra nhằm lưu lại quá trình mình học cũng như là các dự án nhỏ đến lớn của mình.
 - Rất mong được làm quen cũng như học hỏi được nhiều thứ từ các bạn<br>
 ------
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TienNguyen0712&layout=compact) | <a href="https://github.com/TienNguyen0712/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TienNguyen0712&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 ![](https://komarev.com/ghpvc/?username=TienNguyen0712&color=green)
