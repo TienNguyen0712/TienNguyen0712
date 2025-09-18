@@ -11,6 +11,6 @@
 - Trang Github này lập ra nhằm lưu lại quá trình mình học cũng như là các dự án nhỏ đến lớn của mình.
 - Rất mong được làm quen cũng như học hỏi được nhiều thứ từ các bạn<br>
 ------
-| ![Top Langs](https://github-readme-stats-mu-dusky-38.vercel.app/api/top-langs/?username=TienNguyen0712&layout=compact)| ![GitHub stats](github-readme-stats-mu-dusky-38.vercel.app/api?username=TienNguyen0712) |
+| ![Top Langs](https://github-readme-stats-mu-dusky-38.vercel.app/api/top-langs/?username=TienNguyen0712&layout=compact)| ![GitHub stats](https://github-readme-stats-mu-dusky-38.vercel.app/api?username=TienNguyen0712&show_icons=true&theme=radical) |
 | ------------- | ------------- |
 ![](https://komarev.com/ghpvc/?username=TienNguyen0712&color=green)
