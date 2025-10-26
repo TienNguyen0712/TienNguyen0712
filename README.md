@@ -12,7 +12,7 @@
 - Rất mong được làm quen cũng như học hỏi được nhiều thứ từ các bạn<br>
 ------
 
-| <a href="https://github.com/TienNguyen0712"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TienNguyen0712&show_icons=true" alt="Your GitHub stats" /></a> | <a href="https://github.com/TienNguyen0712"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TienNguyen0712" alt="Top langs" /></a> |
+| <a href="https://github.com/TienNguyen0712"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TienNguyen0712&show_icons=true" alt="Your GitHub stats" /></a> | <a href="https://github.com/TienNguyen0712"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TienNguyen0712&layout=compact" alt="Top langs" /></a> |
 | ------------- | ------------- |
 
 ![](https://komarev.com/ghpvc/?username=TienNguyen0712&color=green)
