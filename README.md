@@ -75,13 +75,13 @@
 ## 📫 Contact
 <p>
   <a href="mailto:tiennguyen20050101@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/<your_linkedin>/">
-    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://www.kaggle.com/tiennguyen0712/">
-    <img src="https://img.shields.io/badge/Kaggle-111?style=for-the-badge&logo=kaggle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kaggle-111?style=for-the-badge&logo=kaggle"/>
   </a>
 </p>
 
