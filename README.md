@@ -80,7 +80,7 @@
   <a href="https://www.linkedin.com/in/<your_linkedin>/">
     <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.kaggle.com/<your_kaggle>/">
+  <a href="https://www.kaggle.com/tiennguyen0712/">
     <img src="https://img.shields.io/badge/Kaggle-111?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
 </p>
@@ -88,10 +88,6 @@
 ---
 
 <!-- Footer GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="280" alt="footer"/>
-</p>
-
 <p align="center">
   <b>✨ “Learn by building — build to share.” ✨</b>
 </p>
