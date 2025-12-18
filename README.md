@@ -1,73 +1,60 @@
-# 👋 Hi, I'm a Data Science Student  
+<!-- Banner GIF / Cover -->
+<!-- <p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" alt="banner"/>
+</p> -->
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code
-  &size=22
-  &duration=3000
-  &pause=1000
-  &color=36BCF7
-  &center=true
-  &vCenter=true
-  &width=650
-  &lines=Data+Science+Student;Learning+Machine+Learning;Exploring+Data+and+Insights;Future+Data+Scientist" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+%3CTien+Nguyen%3E+%F0%9F%91%8B;Data+Science+Student+%7C+ML+Enthusiast;Python+%E2%80%A2+Statistics+%E2%80%A2+Machine+Learning+%E2%80%A2+Data+Viz;Building+projects+to+learn+and+share"
+  alt="Typing SVG" />
+</p>
+
+<!-- Quick badges row -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Data%20Science%20Student-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-ML%20%7C%20Analytics-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Vietnam-red?style=for-the-badge" />
 </p>
 
 ---
 
-## 🎓 About Me
-📚 I am a **Data Science student** with a strong interest in:
-- Data analysis & visualization  
-- Machine Learning fundamentals  
-- Statistics & probability  
-- Applying data to solve real-world problems  
-
-I enjoy working on **hands-on projects**, learning from datasets, and continuously improving my technical skills.
+## 👨‍💻 About Me
+- 🎓 I'm a **Data Science student** who loves turning data into insights.
+- 🔭 Currently learning: **Machine Learning, Feature Engineering, Model Evaluation**
+- 🧠 Interested in: **NLP, Recommendation Systems, Time Series, MLOps basics**
+- ✨ Goal: Build **real-world projects** and contribute to open-source.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🧰 Tech Stack
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+### Languages & Tools
+<p>
 
----
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</p>
 
-### 📊 Data Science & Machine Learning (Learning & Practicing)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### Data Science & ML
+<p>
 
----
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+</p>
 
 ### 📈 Data Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
----
-
-### ⚙️ Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📂 Academic & Personal Projects
-🔹 **Exploratory Data Analysis (EDA)**  
-> Analyzed datasets to discover patterns and insights.
-
-🔹 **Machine Learning Mini Projects**  
-> Implemented regression, classification, and clustering models.
-
-🔹 **Coursework Projects**  
-> Data cleaning, visualization, and basic model building.
-
-➡️ *More projects are available in my repositories.*
+<p>
+  
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+  ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+  ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+</p>
 
 ---
 
@@ -77,20 +64,34 @@ I enjoy working on **hands-on projects**, learning from datasets, and continuous
 | ------------- | ------------- |
 ---
 
-## 📚 Currently Learning
-- Probability & Statistics  
-- Machine Learning Algorithms  
-- Data Visualization Techniques  
-- SQL & Data Analysis  
+## 🧩 Mini Widgets
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TienNguyen0712&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Internship%20%7C%20Project%20Collab-8A2BE2?style=for-the-badge" />
+</p>
 
 ---
 
-## 🤝 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 📧 Email: your.email@example.com  
+## 📫 Contact
+<p>
+  <a href="mailto:tiennguyen20050101@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/<your_linkedin>/">
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/<your_kaggle>/">
+    <img src="https://img.shields.io/badge/Kaggle-111?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐ *I am actively looking for internship and learning opportunities in Data Science!*
+<!-- Footer GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="280" alt="footer"/>
+</p>
 
-![](https://komarev.com/ghpvc/?username=TienNguyen0712&color=green)
+<p align="center">
+  <b>✨ “Learn by building — build to share.” ✨</b>
+</p>
