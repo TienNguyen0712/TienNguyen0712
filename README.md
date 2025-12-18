@@ -1,8 +1,8 @@
 <!-- Banner GIF / Cover -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.kym-cdn.com/photos/images/original/002/619/250/613.gif"
   alt="Typing SVG" />
-</p>
+</p> -->
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+%3CTien+Nguyen%3E+%F0%9F%91%8B;Data+Science+Student+%7C+ML+Enthusiast;Python+%E2%80%A2+Statistics+%E2%80%A2+Machine+Learning+%E2%80%A2+Data+Viz;Building+projects+to+learn+and+share"
