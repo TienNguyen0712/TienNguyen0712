@@ -60,7 +60,7 @@
 
 ## 📈 GitHub Stats
 
-| <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TienNguyen0712&show_icons=true" alt="GitHub Stats"/></a> | <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TienNguyen0712&layout=compact" alt="Languages" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=TienNguyen0712&show_icons=true" alt="GitHub Stats"/></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TienNguyen0712&layout=compact" alt="Languages" /> |
 | ------------- | ------------- |
 
 ---
