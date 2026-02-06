@@ -16,15 +16,15 @@
   <img src="https://img.shields.io/badge/Location-Vietnam-red?style=for-the-badge" />
 </p>
 
----
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
 ## 👨‍💻 About Me
 - 🎓 I'm a **Data Science student** who loves turning data into insights.
 - 🔭 Currently learning: **Machine Learning, Feature Engineering, Model Evaluation**
 - 🧠 Interested in: **NLP, Recommendation Systems, Time Series, MLOps basics**
 - ✨ Goal: Build **real-world projects** and contribute to open-source.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧰 Tech Stack
 
@@ -56,14 +56,16 @@
   ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 GitHub Stats
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TienNguyen0712&theme=nord&hide_border=true&bg_color=2e3440&color=88c0d0&line=88c0d0&point=ffffff" alt="Activity Graph" width="100%" />
 
 | <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TienNguyen0712&show_icons=true" alt="GitHub Stats"/></a> | <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TienNguyen0712&layout=compact" alt="Languages" /> |
 | ------------- | ------------- |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧩 Mini Widgets
 <p align="center">
@@ -71,7 +73,7 @@
   <img src="https://img.shields.io/badge/Open%20to-Internship%20%7C%20Project%20Collab-8A2BE2?style=for-the-badge" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📫 Contact
 <p>
