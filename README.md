@@ -18,9 +18,8 @@
  
 ## 👨‍💻 About Me
  
-- 🎓 I'm a **AI Engineering & Data Science Student** 
-- 🧠 Interested in: **Passionate about Machine Learning, LLMs, and Data-driven Systems**
-- ✨ Goal: Build **real-world projects** and contribute to open-source.
+AI Engineering & Data Science student passionate about Machine Learning, LLMs, and AI systems.  
+Currently building real-world projects and exploring scalable AI technologies.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
