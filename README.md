@@ -3,16 +3,15 @@
   alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <b>✨ “Learn by building — build to share.” ✨</b>
-</p>
-
-
 <!-- Quick badges row -->
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Data%20Science%20Student-2ea44f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-ML%20%7C%20Analytics-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Vietnam-red?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b>✨ “Learn by building — build to share.” ✨</b>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
