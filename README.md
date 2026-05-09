@@ -1,9 +1,3 @@
-<!-- Banner GIF / Cover -->
-<!-- <p align="center">
-  <img src="https://i.kym-cdn.com/photos/images/original/002/619/250/613.gif"
-  alt="Typing SVG" />
-</p> -->
-<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+%3CTien+Nguyen%3E+%F0%9F%91%8B;Data+Science+Student+%7C+ML+Enthusiast;Python+%E2%80%A2+Statistics+%E2%80%A2+Machine+Learning+%E2%80%A2+Data+Viz;Building+projects+to+learn+and+share"
   alt="Typing SVG" />
@@ -19,44 +13,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
 ## 👨‍💻 About Me
-- 🎓 I'm a **Data Science student** who loves turning data into insights.
-- 🔭 Currently learning: **Machine Learning, Feature Engineering, Model Evaluation**
-- 🧠 Interested in: **NLP, Recommendation Systems, Time Series, MLOps basics**
+ 
+- 🎓 I'm a **AI Engineering & Data Science Student** 
+- 🧠 Interested in: **Passionate about Machine Learning, LLMs, and Data-driven Systems**
 - ✨ Goal: Build **real-world projects** and contribute to open-source.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧰 Tech Stack
 
-### Languages & Tools
-<p>
-
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-</p>
-
-### Data Science & ML
-<p>
-
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-</p>
-
-### 📈 Data Visualization
-<p>
-  
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-  ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-  ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=150458)
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=F37626)
 
 ## 📈 GitHub Stats
 
@@ -94,3 +64,5 @@
 <p align="center">
   <b>✨ “Learn by building — build to share.” ✨</b>
 </p>
+
+
