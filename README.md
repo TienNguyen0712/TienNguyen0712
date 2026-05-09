@@ -28,6 +28,8 @@
 ![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=F37626)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 📈 GitHub Stats
 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=TienNguyen0712&theme=nord&hide_border=true&bg_color=2e3440&color=88c0d0&line=88c0d0&point=ffffff" alt="Activity Graph" width="100%" /> -->
