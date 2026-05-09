@@ -3,6 +3,11 @@
   alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <b>✨ “Learn by building — build to share.” ✨</b>
+</p>
+
+
 <!-- Quick badges row -->
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Data%20Science%20Student-2ea44f?style=for-the-badge" />
@@ -59,12 +64,3 @@
     <img src="https://img.shields.io/badge/Kaggle-111?style=for-the-badge&logo=kaggle"/>
   </a>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Footer GIF -->
-<p align="center">
-  <b>✨ “Learn by building — build to share.” ✨</b>
-</p>
-
-
