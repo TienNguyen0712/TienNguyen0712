@@ -1,0 +1,55 @@
+/* Design tokens, reset, global elements */
+
+:root {
+  color-scheme: light dark;
+  --bg: light-dark(#f7f7f4,#111311);
+  --panel: light-dark(#fff,#191c19);
+  --soft: light-dark(#efefe9,#222622);
+  --text: light-dark(#20241f,#edf0e9);
+  --muted: light-dark(#73786f,#a0a79c);
+  --line: light-dark(#dedfd7,#30362f);
+  --accent: light-dark(#416b50,#a5d6ad);
+  --shadow: 0 8px 30px #00000008;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 15px/1.6 Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+}
+
+button,a {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.hidden {
+  display: none!important;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .card { transition: none; }
+}

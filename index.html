@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Personal portfolio — Minh Anh</title>
+  <meta name="description" content="Personal portfolio and blog of Minh Anh, computer science student.">
+
+  <!-- Giao diện: mỗi file lo một phần, xem css/ -->
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/profile.css">
+  <link rel="stylesheet" href="css/blog.css">
+  <link rel="stylesheet" href="css/article.css">
+
+  <!-- Thư viện Markdown (đặt sẵn trong repo, không cần mạng) -->
+  <script src="js/vendor/marked.umd.js"></script>
+  <script type="module" src="js/main.js"></script>
+</head>
+<body>
+<div class="app" id="app">
+
+  <header class="topbar">
+    <a class="brand" href="#/">MA<span>·</span>folio</a>
+    <nav class="nav">
+      <button class="active" data-route="#/" data-i="navProfile">Profile</button>
+      <button data-route="#/blog" data-i="navBlog">Blog</button>
+    </nav>
+    <div class="tools">
+      <button class="icon-btn" id="lang" aria-label="Switch language">EN / VI</button>
+      <button class="icon-btn" id="theme" aria-label="Toggle color theme">☾</button>
+    </div>
+  </header>
+
+  <!-- ═════════ TRANG HỒ SƠ ═════════ (chữ hiển thị nằm trong content/i18n/*.json, khóa = data-i) -->
+  <main class="wrap" id="profilePage">
+
+    <section class="hero" id="top">
+      <div>
+        <div class="eyebrow" data-i="hello">Computer science student · Ho Chi Minh City</div>
+        <h1 data-i="heroTitle">Building things<br>with <em>curiosity.</em></h1>
+        <p class="intro" data-i="intro">I'm Minh Anh, a computer science student interested in thoughtful software, human-centered technology, and turning small ideas into useful things.</p>
+        <div class="actions">
+          <a class="btn primary" href="#contact" data-i="contactMe">↗ Get in touch</a>
+          <a class="btn" href="#projects" data-i="explore">Explore my work ↓</a>
+          <a class="btn" href="cv.pdf" download data-i="cv">↓ Download CV</a>
+        </div>
+      </div>
+      <div class="portrait" role="img" aria-label="Profile picture placeholder">
+        <div class="sun"></div><div class="silhouette"></div>
+        <small data-i="photo">Your photo goes here</small>
+      </div>
+    </section>
+
+    <div class="stats">
+      <div class="stat"><strong>3.8<span style="font-size:14px"> / 4.0</span></strong><span data-i="gpa">GPA · replace with yours</span></div>
+      <div class="stat"><strong data-i="schoolVal">Your University</strong><span data-i="school">School / major</span></div>
+      <div class="stat"><strong>2023 — 2027</strong><span data-i="study">Expected graduation · edit dates</span></div>
+    </div>
+
+    <section class="section">
+      <div class="section-head">
+        <div><div class="eyebrow" data-i="aboutEyebrow">A little about me</div><h2 data-i="aboutTitle">Curious by nature.</h2></div>
+        <div class="section-note" data-i="aboutNote">A student, builder, lifelong learner.</div>
+      </div>
+      <div class="wide-card">
+        <div><div class="card-type" data-i="currently">Currently</div><h3 data-i="aboutCardTitle">Learning by making</h3></div>
+        <p data-i="aboutText"></p>
+      </div>
+    </section>
+
+    <section class="section" id="projects">
+      <div class="section-head">
+        <div><div class="eyebrow" data-i="selectedWork">Selected work</div><h2 data-i="projectsTitle">Projects</h2></div>
+        <div class="section-note" data-i="projectNote">A few things I've been building</div>
+      </div>
+      <div class="grid" id="projectGrid"><!-- vẽ từ content/projects.json --></div>
+    </section>
+
+    <section class="section" id="research">
+      <div class="section-head">
+        <div><div class="eyebrow" data-i="curiosity">Questions worth exploring</div><h2 data-i="researchTitle">Research &amp; learning</h2></div>
+      </div>
+      <div class="wide-card">
+        <div><div class="card-type">01 / <span data-i="researchType">Research interest</span></div><h3 data-i="researchOne">Human-centered AI</h3></div>
+        <p data-i="researchOneText"></p>
+      </div>
+      <div class="wide-card">
+        <div><div class="card-type">02 / <span data-i="researchType">Research interest</span></div><h3 data-i="researchTwo">Algorithms &amp; data</h3></div>
+        <p data-i="researchTwoText"></p>
+      </div>
+      <div class="timeline">
+        <div class="timeline-item"><h3 data-i="eduTitle">B.Sc. in Computer Science</h3><p data-i="eduText"></p></div>
+        <div class="timeline-item"><h3 data-i="eduTwo">Keep learning, keep shipping</h3><p data-i="eduTwoText"></p></div>
+      </div>
+    </section>
+
+    <section class="section" id="contact">
+      <div class="contact">
+        <div><h2 data-i="contactTitle">Have an idea? Let's talk.</h2><p data-i="contactText"></p></div>
+        <div class="actions" style="margin:0">
+          <a class="btn primary" href="mailto:hello@example.com">✉ Email</a>
+          <a class="btn" href="https://github.com/" target="_blank" rel="noreferrer">GitHub ↗</a>
+          <a class="btn" href="https://www.linkedin.com/" target="_blank" rel="noreferrer">LinkedIn ↗</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ═════════ TRANG DANH SÁCH BLOG ═════════ (bài viết lấy từ content/posts/*.md) -->
+  <main class="wrap hidden" id="blogPage">
+    <section class="blog-hero">
+      <div class="eyebrow" data-i="journal">Notes from the learning process</div>
+      <h1 data-i="blogTitle">Ideas, experiments<br> &amp; <em style="color:var(--accent)">everything between.</em></h1>
+      <p data-i="blogIntro"></p>
+    </section>
+    <div class="filters" id="filters"></div>
+    <div class="grid" id="blogGrid"></div>
+  </main>
+
+  <!-- ═════════ TRANG ĐỌC BÀI ═════════ (js/post.js đổ nội dung vào #postContent) -->
+  <main class="wrap hidden" id="postPage">
+    <a class="back" href="#/blog" data-i="backToBlog">← Back to blog</a>
+    <div id="postContent"></div>
+  </main>
+
+  <footer class="footer">
+    <span>© 2026 Minh Anh · <span data-i="footerText">Made with curiosity.</span></span>
+    <span>HTML · CSS · JS</span>
+  </footer>
+</div>
+</body>
+</html>

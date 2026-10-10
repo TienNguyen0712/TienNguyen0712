@@ -1,0 +1,44 @@
+[
+  {
+    "type": "WEB DEVELOPMENT",
+    "title": "Focus — Study planner",
+    "tags": [
+      "React",
+      "TypeScript",
+      "UI/UX"
+    ],
+    "url": "",
+    "desc": {
+      "en": "A simple, accessible place to organize tasks and build consistent habits.",
+      "vi": "Không gian đơn giản, dễ tiếp cận để quản lý công việc và hình thành thói quen."
+    }
+  },
+  {
+    "type": "DATA PROJECT",
+    "title": "Open Data Explorer",
+    "tags": [
+      "Python",
+      "Pandas",
+      "Data viz"
+    ],
+    "url": "",
+    "desc": {
+      "en": "A clean dashboard to explore, filter, and understand an open dataset.",
+      "vi": "Bảng điều khiển trực quan giúp khám phá, lọc và hiểu bộ dữ liệu mở."
+    }
+  },
+  {
+    "type": "PERSONAL TOOL",
+    "title": "Note Garden",
+    "tags": [
+      "JavaScript",
+      "CSS",
+      "Local storage"
+    ],
+    "url": "",
+    "desc": {
+      "en": "A tiny web app that makes study notes searchable and shareable.",
+      "vi": "Ứng dụng web nhỏ giúp tìm kiếm và chia sẻ ghi chú học tập."
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "first-fullstack-app",
+    "lang": "en",
+    "file": "first-fullstack-app.en.md",
+    "title": "What I learned building my first full-stack app",
+    "date": "2026-05-18",
+    "category": "build",
+    "tags": [
+      "Web dev",
+      "Lessons"
+    ],
+    "summary": "From data modeling to deployment — the decisions I would make differently next time.",
+    "cover": "",
+    "readingTime": 1
+  },
+  {
+    "slug": "time-complexity",
+    "lang": "en",
+    "file": "time-complexity.en.md",
+    "title": "A visual guide to time complexity",
+    "date": "2026-05-02",
+    "category": "cs",
+    "tags": [
+      "Algorithms",
+      "CS"
+    ],
+    "summary": "Big-O notation with intuitive examples and practical trade-offs.",
+    "cover": "",
+    "readingTime": 1
+  },
+  {
+    "slug": "time-complexity",
+    "lang": "vi",
+    "file": "time-complexity.vi.md",
+    "title": "Trực quan hóa độ phức tạp thuật toán",
+    "date": "2026-05-02",
+    "category": "cs",
+    "tags": [
+      "Thuật toán",
+      "CS"
+    ],
+    "summary": "Ký hiệu Big-O qua ví dụ trực quan và sự đánh đổi trong thực tế.",
+    "cover": "",
+    "readingTime": 1
+  },
+  {
+    "slug": "plan-before-code",
+    "lang": "vi",
+    "file": "plan-before-code.vi.md",
+    "title": "Lập kế hoạch dự án trước khi viết code",
+    "date": "2026-03-04",
+    "category": "notes",
+    "tags": [
+      "Lập kế hoạch",
+      "Quy trình"
+    ],
+    "summary": "Quy trình đơn giản để xác định phạm vi, ưu tiên và ra mắt phiên bản đầu.",
+    "cover": "",
+    "readingTime": 1
+  }
+]
