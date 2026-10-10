@@ -22,7 +22,7 @@ export async function renderPost(slug) {
     return null;
   }
   const post = variants.find(v => v.lang === lang) ?? variants[0];
-  const fileUrl = new URL(CONFIG.postsDir + post.file, location.href);
+  const fileUrl = new URL(post.file, CONFIG.postsDir);
   const body = await renderMarkdown(stripFrontMatter(await getText(fileUrl)), fileUrl);
   if (my !== seq) return null;                       // người đọc đã chuyển trang/ngôn ngữ trong lúc tải
 
